@@ -8,36 +8,36 @@ Dieses Projekt dient der Erfassung von Seriennummern und Booster-Verteilungen au
 
 | Anzahl | Seriennummer             | Season           | Anzahl Booster |
 | ------ | ------------------------ | ---------------- | -------------- |
-| 1      | 7B:97:9F:87:50:01:04:E0  | Scarlet & Violet | 25             |
-| 2      | 6C:A0:9F:87:50:01:04:E0  | Scarlet & Violet | 25             |
-| 3      | 7B:97:9F:87:50:01:04:E0  | Scarlet & Violet | 25             |
-| 4      | 7B:97:9F:87:50:01:04:E0  | Scarlet & Violet | 25             |
-| 5      | 7B:97:9F:87:50:01:04:E0  | Scarlet & Violet | 25             |
-| 6      | 7B:97:9F:87:50:01:04:E0  | Scarlet & Violet | 25             |
-| 7      | 7B:97:9F:87:50:01:04:E0  | Scarlet & Violet | 25             |
-| 8      | 7B:97:9F:87:50:01:04:E0  | Scarlet & Violet | 25             |
-| 9      | 6C:A0:9F:87:50:01:04:E0  | Scarlet & Violet | 25             |
-| 10     | 6C:A0:9F:87:50:01:04:E0  | Scarlet & Violet | 25             |
-| 11     | 6C:A0:9F:87:50:01:04:E0  | Scarlet & Violet | 25             |
-| 12     | 6C:A0:9F:87:50:01:04:E1  | Scarlet & Violet | 25             |
-| 13     | 6C:A0:9F:87:50:01:04:E2  | Scarlet & Violet | 25             |
-| 14     | 6C:A0:9F:87:50:01:04:E3  | Scarlet & Violet | 25             |
-| 15     | 6C:A0:9F:87:50:01:04:E4  | Scarlet & Violet | 25             |
-| 16     | 6C:A0:9F:87:50:01:04:E5  | Scarlet & Violet | 25             |
-| 17     | 6C:A0:9F:87:50:01:04:E6  | Scarlet & Violet | 25             |
-| 18     | 6C:A0:9F:87:50:01:04:E7  | Scarlet & Violet | 25             |
-| 19     | 6C:A0:9F:87:50:01:04:E8  | Scarlet & Violet | 25             |
-| 20     | 6C:A0:9F:87:50:01:04:E9  | Scarlet & Violet | 25             |
-| 21     | 6C:A0:9F:87:50:01:04:E10 | Scarlet & Violet | 25             |
-| 22     | 6C:A0:9F:87:50:01:04:E11 | Scarlet & Violet | 25             |
-| 23     | 6C:A0:9F:87:50:01:04:E12 | Scarlet & Violet | 25             |
-| 24     | 6C:A0:9F:87:50:01:04:E13 | Scarlet & Violet | 25             |
-| 25     | 6C:A0:9F:87:50:01:04:E14 | Scarlet & Violet | 25             |
-| 26     | 6C:A0:9F:87:50:01:04:E15 | Scarlet & Violet | 25             |
-| 27     | 6C:A0:9F:87:50:01:04:E16 | Scarlet & Violet | 25             |
-| 28     | 6C:A0:9F:87:50:01:04:E17 | Scarlet & Violet | 25             |
-| 29     | 6C:A0:9F:87:50:01:04:E18 | Scarlet & Violet | 25             |
-| 30     | 6C:A0:9F:87:50:01:04:E19 | Scarlet & Violet | 25             |
+| 1      | 7B:97:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
+| 2      | 6C:A0:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
+| 3      | 89:94:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
+| 4      | FC:AE:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
+| 5      | 18:99:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
+| 6      | C7:9D:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
+| 7      | 85:A1:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
+| 8      | DC:9D:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
+| 9      | C7:A6:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
+| 10     | F5:A6:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
+| 11     | 53:94:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
+| 12     | 24:8D:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
+| 13     | 32:B0:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
+| 14     | C5:B4:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
+| 15     | B2:BC:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
+| 16     | 6C:A3:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
+| 17     | 8F:98:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
+| 18     | 3A:A6:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
+| 19     | 01:95:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
+| 20     | 5C:B4:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
+| 21     | E6:A5:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
+| 22     | 24:92:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
+| 23     | 0C:9B:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
+| 24     | E7:97:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
+| 25     | 64:B9:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
+| 26     | 75:A7:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
+| 27     | 7F:97:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
+| 28     | E0:9D:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
+| 29     | E8:97:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
+| 30     | E0:04:01:50:87:9F:99:22 | Scarlet & Violet | 25             |
 
 ---
 
