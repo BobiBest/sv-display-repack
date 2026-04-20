@@ -42,6 +42,7 @@ Dieses Projekt dient der Erfassung von Seriennummern und Booster-Verteilungen au
 ---
 
 ## 📦 Displays
+Von den Folgenenden Display ist jeweils 1 Booster Pack drinnen:
 
 ```
 sv1S, sv1V, sv1a, sv2P, sv2D, sv2a, sv3, sv3a, sv3K, sv3M,
