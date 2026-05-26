@@ -4,7 +4,7 @@ Dieses Projekt dient der Erfassung von Seriennummern und Booster-Verteilungen au
 
 ---
 
-## 📊 Datenübersicht
+## 📊 Übersicht der Repacks
 
 | Anzahl | Seriennummer 1    | Seriennummer 2          | Season           | Anzahl Booster |
 | ------ | --------| --------| ---------------- | -------------- |
