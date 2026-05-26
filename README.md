@@ -9,40 +9,40 @@ Dieses Projekt dient der Erfassung von Seriennummern und Booster-Verteilungen au
 | Anzahl | Seriennummer 1    | Seriennummer 2          | Season           | Anzahl Booster |
 | ------ | --------| --------| ---------------- | -------------- |
 | 1      | 1512421 | 1512422 | Scarlet & Violet | 25             |
-| 2      | 6C:A0:9F:87:50:01:04:E0 | 7B:97:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
-| 3      | 89:94:9F:87:50:01:04:E0 | 7B:97:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
-| 4      | FC:AE:9F:87:50:01:04:E0 | 7B:97:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
-| 5      | 18:99:9F:87:50:01:04:E0 | 7B:97:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
-| 6      | C7:9D:9F:87:50:01:04:E0 | 7B:97:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
-| 7      | 85:A1:9F:87:50:01:04:E0 | 7B:97:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
-| 8      | DC:9D:9F:87:50:01:04:E0 | 7B:97:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
-| 9      | C7:A6:9F:87:50:01:04:E0 | 7B:97:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
-| 10     | F5:A6:9F:87:50:01:04:E0 | 7B:97:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
-| 11     | 53:94:9F:87:50:01:04:E0 | 7B:97:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
-| 12     | 24:8D:9F:87:50:01:04:E0 | 7B:97:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
-| 13     | 32:B0:9F:87:50:01:04:E0 | 7B:97:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
-| 14     | C5:B4:9F:87:50:01:04:E0 | 7B:97:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
-| 15     | B2:BC:9F:87:50:01:04:E0 | 7B:97:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
-| 16     | 6C:A3:9F:87:50:01:04:E0 | 7B:97:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
-| 17     | 8F:98:9F:87:50:01:04:E0 | 7B:97:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
-| 18     | 3A:A6:9F:87:50:01:04:E0 | 7B:97:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
-| 19     | 01:95:9F:87:50:01:04:E0 | 7B:97:9F:87:50:01:04:E0 | Scarlet & Violet | 25             |
-| 20     | 5C:B4:9F:87:50:01:04:E0 | 7B:97:9F:87:50:01:04:E0 | Scarlet & Violet | 22             |
-| 21     | E6:A5:9F:87:50:01:04:E0 | 7B:97:9F:87:50:01:04:E0 | Scarlet & Violet | 22             |
-| 22     | 24:92:9F:87:50:01:04:E0 | 7B:97:9F:87:50:01:04:E0 | Scarlet & Violet | 22             |
-| 23     | 0C:9B:9F:87:50:01:04:E0 | 7B:97:9F:87:50:01:04:E0 | Scarlet & Violet | 22             |
-| 24     | E7:97:9F:87:50:01:04:E0 | 7B:97:9F:87:50:01:04:E0 | Scarlet & Violet | 22             |
-| 25     | 64:B9:9F:87:50:01:04:E0 | 7B:97:9F:87:50:01:04:E0 | Scarlet & Violet | 22             |
-| 26     | 75:A7:9F:87:50:01:04:E0 | 7B:97:9F:87:50:01:04:E0 | Scarlet & Violet | 22             |
-| 27     | 7F:97:9F:87:50:01:04:E0 | 7B:97:9F:87:50:01:04:E0 | Scarlet & Violet | 22             |
-| 28     | E0:9D:9F:87:50:01:04:E0 | 7B:97:9F:87:50:01:04:E0 | Scarlet & Violet | 22             |
-| 29     | E8:97:9F:87:50:01:04:E0 | 7B:97:9F:87:50:01:04:E0 | Scarlet & Violet | 22             |
-| 30     | E0:04:01:50:87:9F:99:22 | 7B:97:9F:87:50:01:04:E0 | Scarlet & Violet | 22             |
+| 2      | 1512483 | 1512484 | Scarlet & Violet | 25             |
+| 3      | 1512485 | 1512486 | Scarlet & Violet | 25             |
+| 4      | 1512487 | 1512488 | Scarlet & Violet | 25             |
+| 5      | 1512489 | 1512490 | Scarlet & Violet | 25             |
+| 6      | 1512471 | 1512472 | Scarlet & Violet | 25             |
+| 7      | 1512473 | 1512474 | Scarlet & Violet | 25             |
+| 8      | 1512479 | 1512480 | Scarlet & Violet | 25             |
+| 9      | 1512477 | 1512478 | Scarlet & Violet | 25             |
+| 10     | 1512475 | 1512476 | Scarlet & Violet | 25             |
+| 11     | 1512451 | 1512451 | Scarlet & Violet | 25             |
+| 12     | 1512453 | 1512454 | Scarlet & Violet | 25             |
+| 13     | 1512455 | 1512456 | Scarlet & Violet | 25             |
+| 14     | 1512457 | 1512458 | Scarlet & Violet | 25             |
+| 15     | 1512459 | 1512460 | Scarlet & Violet | 25             |
+| 16     | 1512461 | 1512462 | Scarlet & Violet | 25             |
+| 17     | 1512463 | 1512464 | Scarlet & Violet | 25             |
+| 18     | 1512465 | 1512466 | Scarlet & Violet | 25             |
+| 19     | 1512469 | 1512470 | Scarlet & Violet | 25             |
+| 20     | 1512467 | 1512468 | Scarlet & Violet | 25             |
+| 21     | 1512431 | 1512432 | Scarlet & Violet | 22             |
+| 22     | 1512423 | 1512424 | Scarlet & Violet | 22             |
+| 23     | 1512425 | 1512426 | Scarlet & Violet | 22             |
+| 24     | 1512439 | 1512440 | Scarlet & Violet | 22             |
+| 25     | 1512438 | 1512437 | Scarlet & Violet | 22             |
+| 26     | 1512450 | 1512449 | Scarlet & Violet | 22             |
+| 27     | 1512447 | 1512448 | Scarlet & Violet | 22             |
+| 28     | 1512441 | 1512442 | Scarlet & Violet | 22             |
+| 29     | 1512443 | 1512444 | Scarlet & Violet | 22             |
+| 30     | 1512445 | 1512446 | Scarlet & Violet | 22             |
 
 ---
 
 ## 📦 Displays
-Von den Folgenenden Display ist jeweils 1 Booster Pack drinnen:
+Bei den Boxen 1-20 sind von den Folgenenden Display ist jeweils 1 Booster Pack drinnen:
 
 ```
 sv1S, sv1V, sv1a, sv2P, sv2D, sv2a, sv3, sv3a, sv3K, sv3M,
@@ -50,6 +50,13 @@ sv4a, sv5K, sv5M, sv5A, sv6, sv6a, sv7, sv7a, sv8, sv8a,
 sv9, sv9a, sv10, sv11W, sv11B
 ```
 
+Bei den Boxen 21-30 sind von den Folgenenden Display ist jeweils 1 Booster Pack drinnen:
+
+```
+sv1S, sv1V, sv1a, sv2P, sv2D, sv3, sv3a, sv3K, sv3M,
+sv4a, sv5K, sv5M, sv5A, sv6, sv6a, sv7, sv7a, sv8, sv8a,
+sv9, sv9a, sv10
+Folgende sind nicht enthalten: sv2a, sv11W, sv11B!
 ---
 
 ## ℹ️ Hinweis
