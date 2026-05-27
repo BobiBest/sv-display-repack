@@ -18,7 +18,7 @@ Dieses Projekt dient der Erfassung von Seriennummern und Booster-Verteilungen au
 | 8      | 1512479 | 1512480 | Scarlet & Violet | 25             |
 | 9      | 1512477 | 1512478 | Scarlet & Violet | 25             |
 | 10     | 1512475 | 1512476 | Scarlet & Violet | 25             |
-| 11     | 1512451 | 1512451 | Scarlet & Violet | 25             |
+| 11     | 1512451 | 1512452 | Scarlet & Violet | 25             |
 | 12     | 1512453 | 1512454 | Scarlet & Violet | 25             |
 | 13     | 1512455 | 1512456 | Scarlet & Violet | 25             |
 | 14     | 1512457 | 1512458 | Scarlet & Violet | 25             |
@@ -33,9 +33,9 @@ Dieses Projekt dient der Erfassung von Seriennummern und Booster-Verteilungen au
 | 23     | 1512425 | 1512426 | Scarlet & Violet | 22             |
 | 24     | 1512439 | 1512440 | Scarlet & Violet | 22             |
 | 25     | 1512438 | 1512437 | Scarlet & Violet | 22             |
-| 26     | 1512450 | 1512449 | Scarlet & Violet | 22             |
-| 27     | 1512447 | 1512448 | Scarlet & Violet | 22             |
-| 28     | 1512441 | 1512442 | Scarlet & Violet | 22             |
+| 26     | 1512441 | 1512442 | Scarlet & Violet | 22             |
+| 27     | 1512449 | 1512450 | Scarlet & Violet | 22             |
+| 28     | 1512447 | 1512448 | Scarlet & Violet | 22             |
 | 29     | 1512443 | 1512444 | Scarlet & Violet | 22             |
 | 30     | 1512445 | 1512446 | Scarlet & Violet | 22             |
 
