@@ -6,7 +6,7 @@ Dieses Projekt dient der Erfassung von Seriennummern und Booster-Verteilungen au
 
 ## 📊 Übersicht der Repacks
 
-| Anzahl | Seriennummer 1    | Seriennummer 2          | Season           | Anzahl Booster |
+| Anzahl | ID Nummer 1    | ID Nummer 2          | Season           | Anzahl Booster |
 | ------ | --------| --------| ---------------- | -------------- |
 | 1      | 1512421 | 1512422 | Scarlet & Violet | 25             |
 | 2      | 1512483 | 1512484 | Scarlet & Violet | 25             |
